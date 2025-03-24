@@ -1,0 +1,13 @@
+id   | Producto			| Precio ($)| Existencia
+1    | Tomahawk			| 14.00	    |7
+2    | Arrachera		| 14.50	    |25
+3    | Ribeye			| 18.00	    |15
+4    | Huevos			| 6.00	    |21
+5    | Grasa animal		| 11.50	    |11
+6    | Costilla			| 9.50	    |20
+7    | Lomo  			| 7.00	    |23
+8    | Wagyu Beef		| 75.00	    |10
+9    | Queso Fresco		| 5.00	    |20
+10   | Miel natural		| 10.00	    |12
+11   | Leche cruda		| 8.00	    |15
+12   | Crema			| 5.00	    |18
